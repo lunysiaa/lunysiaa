@@ -1,12 +1,10 @@
 # 🌙 Luna (any pronouns)
 Hey there! 👋 I'm a hobby vibe-coder from Germany.
 
-**Currently vibing with:**  
-Vite, React, TypeScript, TailwindCSS, Java
-
-**Favorite tools:** VS Code, Git 
-
+**Currently vibing with:**
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Favorite tools:** VS Code, IntelliJ Idea, Git and the debian linux system (in e.g. Containers) 
 
 ## 📌 Pinned Projects
 1. **[LunaCard](https://github.com/lunysiaa/LunaCard)** – Self-hosted linktree with pixel aesthetic & seasonal particles  
