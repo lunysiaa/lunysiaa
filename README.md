@@ -3,7 +3,9 @@ Hey there! 👋 I'm a hobby vibe-coder from Germany.
 
 **Currently vibing with:**  
 Vite, React, TypeScript, TailwindCSS, Java
+
 **Favorite tools:** VS Code, Git 
+
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📌 Pinned Projects
