@@ -2,7 +2,7 @@
 Hey there! 👋 I'm a hobby vibe-coder from Germany.
 
 **Currently vibing with:**  
-Vite, React, TypeScript, TailwindCSS, Java  
+Vite, React, TypeScript, TailwindCSS, Java  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 **Favorite tools:** VS Code, Git 
 
 ## 📌 Pinned Projects
@@ -19,6 +19,3 @@ Vite, React, TypeScript, TailwindCSS, Java
 
 ## 🌱 Current Goal
 Turn "AI-assisted" into "I actually know what I'm doing".
-
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
