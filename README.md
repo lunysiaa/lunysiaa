@@ -1,5 +1,6 @@
 # 🌙 Luna (any pronouns)
-Hey there! 👋 I'm a hobby vibe-coder from Germany.
+₊˚⊹♡ Heyyy!!  I’m Luna. 🌙 
+⋆｡°✩ I'm a hobby vibe-coder from Germany and  into tech & cute things, not really a “creator”, just vibing and existing ₍^. .^₎⟆
 
 **Currently vibing with:**
 
@@ -21,3 +22,5 @@ Hey there! 👋 I'm a hobby vibe-coder from Germany.
 
 ## 🌱 Current Goal
 Turn "AI-assisted" into "I actually know what I'm doing".
+
+₊˚⊹ thanks for being here ✧
