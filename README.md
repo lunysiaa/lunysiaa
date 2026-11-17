@@ -1,5 +1,5 @@
-# 🌙 Luna (any pronouns)
-₊˚⊹♡ Heyyy!!  I’m Luna. 🌙 
+# 🌙 Luny
+₊˚⊹♡ Heyyy!!  I’m Lunyy. 🌙 
 ⋆｡°✩ I'm a hobby vibe-coder from Germany and  into tech & cute things, not really a “creator”, just vibing and existing ₍^. .^₎⟆
 
 **Currently vibing with:**
